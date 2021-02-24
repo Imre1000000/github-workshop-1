@@ -13,7 +13,7 @@ public class Main {
     }
 
     public static void debug( int debugLevel, String debug ) {
-        System.out.println("DEBUG (" + debugLevel + "): " + debug);
+        System.out.println("DEBUGf (" + debugLevel + "): " + debug);
     }
 
 }
